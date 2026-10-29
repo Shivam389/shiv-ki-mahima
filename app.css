@@ -464,9 +464,6 @@ html,body{height:100%;height:100dvh}
 .s-end .mbody>*{flex-shrink:0}
 .s-end .msg{font-size:calc(var(--tw)*.052);line-height:1.6}
 .s-end .foot{font-size:calc(var(--tw)*.1);line-height:1.2}
-.closing-contact{font-size:15px;line-height:1.5;color:#345963;margin:0}
-.closing-contact a{color:inherit;text-decoration:none;text-underline-offset:3px}
-.closing-contact a:focus-visible{outline:1px solid #b98a2e;outline-offset:5px}
 .s-cd{padding:48px 24px;min-height:100svh}
 .summary-content .sched{max-width:400px}
 .sched div{font-size:17px;line-height:1.4;padding:11px 0}

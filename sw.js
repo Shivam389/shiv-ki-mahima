@@ -1,4 +1,4 @@
-const CACHE_NAME='shivam-mahima-09650c043e873ac5';
+const CACHE_NAME='shivam-mahima-58ae1cc00c06067c';
 const PRECACHE=["./", "index.html", "app.css", "invitation.js", "install.js", "manifest.webmanifest", "assets/art3_barat.webp", "assets/art3_sagai.webp", "assets/art3_varmala.webp", "assets/envelope.jpg", "assets/font-1.ttf", "assets/font-2.ttf", "assets/font-3.ttf", "assets/font-4.ttf", "assets/font-5.ttf", "assets/fonts.css", "assets/google-maps-pin.svg", "assets/icon-180.png", "assets/icon-192.png", "assets/icon-512.png", "assets/icon-maskable.png", "assets/icon.svg", "assets/img_barat.png", "assets/img_ganesh.jpg", "assets/img_haldi.jpg", "assets/img_palace.jpg", "assets/img_sangeet.png", "assets/LICENSE-cormorantgaramond.txt", "assets/LICENSE-greatvibes.txt", "assets/LICENSE-tirodevanagarihindi.txt", "assets/manifest.json", "assets/mbot.svg", "assets/mtop.svg", "assets/music.mp3", "assets/NOTICE-google-maps.txt", "assets/orn.svg", "assets/pattern.svg", "assets/sprig.svg", "assets/topper_departure.svg", "assets/topper_sagai.svg", "assets/topper_varmala.svg"];
 const ROOT=new URL('./',self.location.href);
 const INDEX=new URL('index.html',ROOT).href;
